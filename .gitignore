@@ -1,0 +1,9 @@
+.ghc.environment.*
+.stack-work
+_site
+_cache
+_tmp
+dist
+dist-newstyle
+node_modules
+result
